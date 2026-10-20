@@ -1,6 +1,6 @@
 # TechMarket — 2025 yillik savdo tahlili (Excel dashboard)
 
-![Dashboard](images/dashboard.png)
+![Dashboard](images/dashboard.jpg)
 
 O'zbekistonda elektronika va maishiy texnika sotuvchi kompaniyaning 2025 yillik savdo ma'lumotlarini tozalab, tahlil qildim va Excelda interaktiv dashboard yasadim.
 
