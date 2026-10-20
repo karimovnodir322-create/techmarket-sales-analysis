@@ -49,7 +49,7 @@ Xom ma'lumotda real hayotdagidek xatolar bor edi: takroriy qatorlar, bo'sh qiyma
 - Pivot Table, PivotChart, Slicer
 - `GETPIVOTDATA`, `SUMIFS`, `COUNTA`
 - Ma'lumotni tozalash: Remove Duplicates, Find & Replace, TRIM/PROPER
-- *(Agar ishlatgan bo'lsangiz: Power Query)*
+- Power Query.
 
 ## Asosiy topilmalar
 
