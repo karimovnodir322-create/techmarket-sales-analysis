@@ -99,6 +99,5 @@ Dashboardni to'liq ishlatish uchun faylni **Microsoft Excel**da oching (Slicer v
 
 ## Muallif
 
-**[Ismingiz Familiyangiz]**
-LinkedIn: [havola]
-Email: [pochta]
+Karimov Nodir
+Email:karimovnodir322@gamil.com
